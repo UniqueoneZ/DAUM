@@ -4,3 +4,5 @@ This is the official code repository for the paper “Distillation-Accelerated U
 DAUM is a model that integrates multi-objective learning and uncertainty modeling for joint optimization. It is primarily designed for pre-filtering requests in Real-Time Auction (RTA) interception. By leveraging both the predicted scores and their corresponding confidence levels in real time, DAUM filters out traffic with low predicted scores and high model confidence, thereby improving data quality in real-time environments. The overall architecture of DAUM is illustrated in the figure below:
 
 ![](image/DAUM_main.png)
+
+For the purpose of data privacy protection, all data and code used in this paper will be made publicly available after acceptance, following proper anonymization.
